@@ -19,7 +19,7 @@ This is a desktop banking management system created using Java Swing (GUI) and M
 
 - Java (Swing for GUI)
 - MySQL
-- JDBC (MySQL Connector/J)
+- JDBC (MySQL Connector)
 
 ---
 
